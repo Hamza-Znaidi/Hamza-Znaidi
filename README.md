@@ -23,7 +23,7 @@
 </div>
 
 ---
-
+<div align="center">
 ### 🛰️ <span style="color: #00ffea;">[ COMMAND_CENTER ]</span>
 
 <table width="100%" border="0">
@@ -38,7 +38,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 <br />
 
 <div align="center">
