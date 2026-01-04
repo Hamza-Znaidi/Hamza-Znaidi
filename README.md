@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/VIRTUAL_PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=00ffea" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-znaidi-a71346339/" target="_blank">
-    <img src="https://img.shields.io/badge/NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
