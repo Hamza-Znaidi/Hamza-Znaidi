@@ -4,7 +4,6 @@
 </div>
 
 
-
 <br/>
 
 <a href="https://git.io/typing-svg">
@@ -24,7 +23,6 @@
 
 ---
 <div align="center">
-### 🛰️ <span style="color: #00ffea;">[ COMMAND_CENTER ]</span>
 
 <table width="100%" border="0">
   <tr>
@@ -45,19 +43,19 @@
 <div align="center">
   <img src="./Digital_rain_banner.gif" width="100%" height="100" />
 </div>
-### ⚔️ TECH_ARSENAL
+### ⚔️ 𝚃𝙴𝙲𝙷_𝙰𝚁𝚂𝙴𝙽𝙰𝙻
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cs,cpp,java,git,vscode,tailwind,mysql,docker,figma&theme=dark&perline=10" />
 </p>
 
 ---
 
-### 🏆 ACHIEVEMENT_DECK
+### 🏆 𝙰𝙲𝙷𝙸𝙴𝚅𝙴𝙼𝙴𝙽𝚃_𝙳𝙴𝙲𝙺
 <img src="https://github-profile-trophy.vercel.app/?username=Hamza-Znaidi&theme=tokyonight&no-bg=true&column=4" width="100%" />
 
 ---
 
-### 🐍 NEURAL_CONTRIBUTIONS
+### 🐍 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽𝚂
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-Znaidi/Hamza-Znaidi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-Znaidi/Hamza-Znaidi/output/github-contribution-grid-snake.svg">
