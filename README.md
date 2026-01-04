@@ -1,6 +1,9 @@
 <div align="center">
+<div align="center">
+  <img src="./4e9e1f5a41b738e3066d135da871a46c.gif" width="100%" height="200" />
+</div>
 
-<img src="https://img.shields.io/badge/—%20SYSTEM%20LINK%20ESTABLISHED%20—-00ffea?style=for-the-badge" width="100%"/>
+
 
 <br/>
 
@@ -39,7 +42,9 @@
 <br />
 
 <div align="center">
-
+<div align="center">
+  <img src="./Digital_rain_banner.gif" width="100%" height="100" />
+</div>
 ### ⚔️ TECH_ARSENAL
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cs,cpp,java,git,vscode,tailwind,mysql,docker,figma&theme=dark&perline=10" />
@@ -61,6 +66,8 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/—%20SESSION%20ACTIVE%20—%20ENCRYPTION%20ENABLED%20—-00ffea?style=for-the-badge" width="100%"/>
+<div align="center">
+  <img src="./source.gif" width="100%" height="200" />
+</div>
 
 </div>
