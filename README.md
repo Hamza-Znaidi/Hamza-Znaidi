@@ -1,69 +1,66 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://img.shields.io/badge/—%20SYSTEM%20LINK%20ESTABLISHED%20—-00ffea?style=for-the-badge" width="100%"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=HAMZA+ZNAIDI;SOFTWARE+ENGINEER;INFO+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://portfolio-hamza-znaidi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VIRTUAL_PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=00ffea" />
+  </a>
+  <a href="https://www.linkedin.com/in/hamza-znaidi-a71346339/" target="_blank">
+    <img src="https://img.shields.io/badge/NEURAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
-###
+---
+
+### 🛰️ <span style="color: #00ffea;">[ COMMAND_CENTER ]</span>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="100%" align="left" style="border: 1px solid #00ffea; background-color: #0d1117; padding: 15px;">
+      <p align="center"><b>📡 LOG_OUTPUT</b></p>
+      <code><b>[√] ENTITY:</b> Hamza Znaidi</code><br>
+      <code><b>[√] ORIGIN:</b> Tunisia [TN]</code><br>
+      <code><b>[√] CLASS:</b> Software Engineering Student</code><br>
+      <code><b>[√] STATUS:</b> LEVEL_UP_IN_PROGRESS</code><br>
+      <code><b>[√] MISSION:</b> FULL_STACK_DOMINATION</code><br>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
-  <!-- Portfolio -->
-  <a href="https://portfolio-hamza-znaidi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&color=000000&logoColor=white&style=for-the-badge"
-         height="25" alt="Portfolio"/>
-  </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hamza-znaidi-a71346339/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
-         height="25" alt="LinkedIn"/>
-  </a>
+### ⚔️ TECH_ARSENAL
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,cs,cpp,java,git,vscode,tailwind,mysql,docker,figma&theme=dark&perline=10" />
+</p>
 
-  <!-- Twitter -->
-  <a href="https://x.com/HamZA_49_HZ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge"
-         height="25" alt="Twitter"/>
-  </a>
+---
+
+### 🏆 ACHIEVEMENT_DECK
+<img src="https://github-profile-trophy.vercel.app/?username=Hamza-Znaidi&theme=tokyonight&no-bg=true&column=4" width="100%" />
+
+---
+
+### 🐍 NEURAL_CONTRIBUTIONS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-Znaidi/Hamza-Znaidi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-Znaidi/Hamza-Znaidi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hamza-Znaidi/Hamza-Znaidi/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+
+<img src="https://img.shields.io/badge/—%20SESSION%20ACTIVE%20—%20ENCRYPTION%20ENABLED%20—-00ffea?style=for-the-badge" width="100%"/>
+
 </div>
-
-
-
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Hamza Znaidi from Tunisia<br><br>- 📚 I’m a Software Software Engineering & Information Systems Student.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
